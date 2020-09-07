@@ -1,0 +1,1 @@
+DELETE FROM dbo.FamilyRecipes WHERE username='oo'
