@@ -1,8 +1,8 @@
 # Recipes-website-project
-semester server-client project from scratch.
-using azure DB and Spooncular API.
+Explore new recepies or create an acount and uplode your own recipes. You can save your favorite recipes to make them later.
+
+Fullstack development using Client/Server-side from scratch.
+using azure DB and external Spooncular API.
 client side - using with vue.js, bootstramp, html, css
 server side - using node.js, external API
-
-The client can search recipes and filter them. He can save his favorite recipes and put his own recipes. 
 
